@@ -1,0 +1,1 @@
+console.log("SmartLog Analyzer: toolchain OK");
