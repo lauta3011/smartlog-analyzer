@@ -74,8 +74,7 @@ docker compose up    # app + db, no extra steps
 - If something is ambiguous or needs a design decision, ask. Don't decide silently.
 
 ## Git and AI usage
-- Small commits, one logical step each, imperative messages (`add logs migration`).
-- When an AI proposal is relevant, add a line to `docs/ai-log.md`: what was proposed, accepted or rejected, and why. The README must summarize this.
+- only human
 
 ## Open decisions (ask the human, then record in ARCHITECTURE.md)
 - Max logs per analysis and what happens when exceeded (reject or sample).
